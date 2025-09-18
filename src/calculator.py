@@ -1,7 +1,7 @@
 # src/calculator.py
 import time
 
-class Calculator:
+xclass Calculator:
     """A simple calculator class."""
 
     def add(self, a, b):
